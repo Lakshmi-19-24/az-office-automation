@@ -64,3 +64,37 @@ app/public/wp-config.php
 
 # Local WP helper/debug file
 app/public/local-xdebuginfo.php
+# Local WordPress installation
+app/public/wp-admin/
+app/public/wp-includes/
+
+app/public/index.php
+app/public/license.txt
+app/public/readme.html
+app/public/wp-activate.php
+app/public/wp-blog-header.php
+app/public/wp-comments-post.php
+app/public/wp-config-sample.php
+app/public/wp-cron.php
+app/public/wp-links-opml.php
+app/public/wp-load.php
+app/public/wp-login.php
+app/public/wp-mail.php
+app/public/wp-settings.php
+app/public/wp-signup.php
+app/public/wp-trackback.php
+app/public/xmlrpc.php
+
+# Default WordPress themes
+app/public/wp-content/themes/twentytwentythree/
+app/public/wp-content/themes/twentytwentyfour/
+app/public/wp-content/themes/twentytwentyfive/
+
+# WordPress plugins installed locally
+app/public/wp-content/plugins/
+
+# Temporary image import utility
+app/public/az-image-import/
+# WordPress directory placeholder files
+app/public/wp-content/index.php
+app/public/wp-content/themes/index.php
